@@ -1,16 +1,8 @@
 # day3_travel_ui_card
 
-A new Flutter project.
+another day of my #100days challenge i created a travel ui in flutter drop a star⭐ thanks.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Travel UI
+https://github.com/obaloluwaobi/Flutter_Travel_UI/assets/101903208/55557797-5bd8-4a9b-9aad-ef512e4e61b0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
